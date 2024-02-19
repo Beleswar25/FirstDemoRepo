@@ -1,3 +1,3 @@
 # FirstDemoRepo
 learningGitFor FIrst time
-Author - Beleswar Rath
+Author - Beleswar
